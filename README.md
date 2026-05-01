@@ -1,4 +1,4 @@
 # SQL-Projects
 SQL practice and real-world data analysis queries
   Week 1: Normal Queries
-  Week 2: Join, Case
+  Week 2: Join, Case (Ongoing)
